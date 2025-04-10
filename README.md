@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ stream4sats
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -53,10 +54,39 @@ run_stream4sats.bat
 # Linux/macOS
 chmod +x run_stream4sats.sh
 ./run_stream4sats.sh
+=======
+# stream4sats
+
+Proyecto inicial de **stream4sats**.  
+Incluye un backend con Express y WebSocket, y un frontend React con un panel de configuración básico.  
+Pensado para integrarse con **BTCPay Server**, **OBS Studio** y donaciones a través de **Lightning Network**.
+
+---
+
+## 🚀 Funcionalidades
+
+- Backend Express para recibir pagos Lightning y enviar eventos por WebSocket.
+- Frontend React con panel inicial de configuración.
+- Comunicación local entre BTCPay Server y OBS Studio.
+- Soporte para metadata personalizada: `event`, `user`, `comment`.
+- Base modular para futuras expansiones (videos, sonidos, efectos personalizados).
+
+---
+
+## 🛠️ Estructura del Proyecto
+
+```
+stream4sats/
+├── backend/         # Servidor Express
+├── frontend/        # Interfaz en React
+├── .env.example     # Variables de entorno de ejemplo
+└── README.md
+>>>>>>> 6987af0a27ffbb96bdfb28a6ea9a0c5f29858eca
 ```
 
 ---
 
+<<<<<<< HEAD
 ## ⚡ Metadata esperada desde BTCPay PoS
 
 ```json
@@ -98,3 +128,14 @@ Pull requests bienvenidos. Abre un issue para sugerencias.
 ## 📄 Licencia
 
 MIT © Man De Bitcoin
+=======
+## 👤 Autor
+
+Desarrollado por **Man De Bitcoin**  
+💡 Educador, creador de contenido y promotor de Bitcoin en Latinoamérica.
+
+Si deseas apoyar este proyecto, puedes hacerlo con una donación a través de Lightning:  
+⚡ **mandebitcoin@getalby.com**
+
+¡Gracias por apoyar el desarrollo libre y abierto con Bitcoin! ⚡# stream4sats
+>>>>>>> 6987af0a27ffbb96bdfb28a6ea9a0c5f29858eca
