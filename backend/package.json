@@ -1,0 +1,21 @@
+{
+  "name": "stream4sats",
+  "version": "1.0.0",
+  "description": "Servidor local para activar alertas OBS con pagos Lightning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2",
+    "get-audio-duration": "^4.0.1",
+    "gtts": "^0.2.1",
+    "obs-websocket-js": "^5.0.3",
+    "play-sound": "^1.1.6",
+    "socket.io": "^4.8.1"
+  }
+}
