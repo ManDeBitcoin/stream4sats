@@ -77,10 +77,10 @@ Pensado para integrarse con **BTCPay Server**, **OBS Studio** y donaciones a tra
 
 ```
 stream4sats/
-├── backend/         # Servidor Express
-├── frontend/        # Interfaz en React
-├── .env.example     # Variables de entorno de ejemplo
-└── README.md
+-- backend/         # Servidor Express
+-- frontend/        # Interfaz en React
+-- .env.example     # Variables de entorno de ejemplo
+-- README.md
 >>>>>>> 6987af0a27ffbb96bdfb28a6ea9a0c5f29858eca
 ```
 
