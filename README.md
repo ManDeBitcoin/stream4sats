@@ -45,7 +45,7 @@
 ## ⚙️ Cómo usar
 
 ```bash
-git clone https://github.com/tuusuario/stream4sats.git
+git clone https://github.com/ManDeBitcoin/stream4sats.git
 cd stream4sats
 
 # Windows
